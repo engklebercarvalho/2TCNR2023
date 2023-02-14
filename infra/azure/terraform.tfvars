@@ -1,0 +1,10 @@
+location        = ""
+resource_group  = ""
+storage_account_uri = ""
+subnet_id = ""
+virtual_machine_RM = ""
+
+azure_subscription_id = ""
+azure_client_id = "c"
+azure_client_secret = "z"
+azure_tenant_id = ""

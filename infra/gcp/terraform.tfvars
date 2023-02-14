@@ -1,0 +1,8 @@
+gcp_project_id = ""
+source_account_email = ""
+region =  ""
+zone = ""
+vm_name = ""
+vm_type = ""
+vm_image = ""
+vm_image_type = ""

@@ -1,0 +1,8 @@
+
+AWS_REGION = ""
+AWS_ACCESS_KEY = ""
+AWS_SECRET_ACCESS_KEY = ""
+INSTANCE_RM = ""
+SUBNET_ID = ""
+SG_ID = [""]
+KEYPAIR = ""

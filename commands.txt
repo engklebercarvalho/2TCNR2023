@@ -1,0 +1,6 @@
+Set-Alias -Name terraform -Value "C:\tools\terraform.exe" -Force
+
+terraform init
+terraform plan 
+terraform apply 
+terraform destroy -auto-approve
